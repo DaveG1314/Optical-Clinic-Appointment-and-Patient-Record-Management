@@ -16,7 +16,7 @@ EyePro.site is a web-based system developed as a **capstone project** for an opt
 
 ## 🚀 How to Run Locally
 1. Download and install [XAMPP](https://www.apachefriends.org/)
-2. Clone or download this repository into `htdocs` folder
+2. Clone or download this repository and the comment (code) into `htdocs` folder
 3. Import the SQL file into your phpMyAdmin database
 4. Run Apache and MySQL from XAMPP
 5. Access the site at `http://localhost/eyepro-site`
