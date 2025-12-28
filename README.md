@@ -24,7 +24,7 @@ EyePro.site is a web-based system developed as a **capstone project** for an opt
 ## 📝 Notes
 - This project was developed for academic purposes.
 - Backend only — no public deployment.
-- If you'd like access to the full code for evaluation, please contact the developer directly.
+- If you'd like access to the full code for evaluation, please contact me directly.
 
 ## 📫 Contact
 John Dave Garcia – Computer Science Graduate  
